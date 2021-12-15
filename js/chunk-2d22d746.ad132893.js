@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(n,e,t){"use strict";t.r(e);var u=t("7a23"),c={class:"about"},r=Object(u["g"])("h1",null,"Un site d'événements pour un monde meilleur",-1),d=[r];function o(n,e){return Object(u["r"])(),Object(u["f"])("div",c,d)}var s=t("6b0d"),a=t.n(s);const i={},b=a()(i,[["render",o]]);e["default"]=b}}]);
+//# sourceMappingURL=chunk-2d22d746.ad132893.js.map
